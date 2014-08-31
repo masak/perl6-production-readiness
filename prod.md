@@ -34,6 +34,11 @@
 
     IMPROVING
 
+## Unicode
+
+    MATURING
+    will be READY when we have NFG
+
 ## Web support
 
     IMPROVING
