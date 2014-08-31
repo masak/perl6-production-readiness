@@ -42,7 +42,7 @@
 
 ## Learning materials
 
-    1. COARSE
+    2. IMPROVING
 
 ## Onramps
 
