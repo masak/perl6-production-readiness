@@ -1,55 +1,53 @@
-    1. FRAGILE      -- still work to do, and no movement
-    2. IMPROVING    -- has a champion and early results
-    3. MATURING     -- definite results, confirmed by several
-    4. POLISHING    -- problems are rare, some actual usage
-    5. READY        -- no significant gaps, used in production
+    IMPROVING    -- has a champion and early results
+    MATURING     -- definite results, problems are rare
+    READY        -- no significant gaps, used in production
 
 ## General features
 
-    5. READY
+    READY
 
 ## Grammars and parsing
 
-    5. READY
+    READY
 
 ## Object orientation
 
-    5. READY
+    READY
 
 ## Performance
 
-    3. MATURING (with spesh, JIT, a profiler, and serious optimization effort)
-    will be 4. POLISHING when we have no terrible benchmarks left in perl6-bench
-    will be 5. READY when Perl 6 has comparable performance with other P-languages
+    MATURING (with spesh, JIT, a profiler, and serious optimization effort)
+    will be READY- when we have no terrible benchmarks left in perl6-bench
+    will be READY when Perl 6 has comparable performance with other P-languages
 
 ## Parallelism
 
-    3. MATURING
-
-## Module ecosystem
-
-    1. FRAGILE
+    MATURING
+    will be READY- when SEGV/failure reports are very rarely heard, and we've got implementations with users of the spec'd API
+    will be READY when one or more production usages of parallel Perl 6 are reported
 
 ## Language modification and extension
 
-    2. IMPROVING
+    IMPROVING
 
 ## Perl 5 interoperability
 
-    2. IMPROVING
+    IMPROVING
 
 ## Web support
 
-    2. IMPROVING
+    IMPROVING
 
 ## Learning materials
 
-    2. IMPROVING
+    IMPROVING
+    will be MATURING when some up-to-date book (à la "Using Perl 6") is available, online or in print
+    will be READY when the "Programming Perl 6" book is available in print
 
 ## Onramps
 
-    3. MATURING
+    MATURING
 
 ## Debugging
 
-    3. MATURING
+    MATURING
