@@ -1,4 +1,4 @@
-    1. COARSE       -- still work to do, and no movement
+    1. FRAGILE      -- still work to do, and no movement
     2. IMPROVING    -- has a champion and early results
     3. MATURING     -- definite results, confirmed by several
     4. POLISHING    -- problems are rare, some actual usage
@@ -26,7 +26,7 @@
 
 ## Module ecosystem
 
-    1. COARSE
+    1. FRAGILE
 
 ## Language modification and extension
 
