@@ -1,8 +1,8 @@
     1. COARSE       -- still work to do, and no movement
     2. IMPROVING    -- has a champion and early results
     3. MATURING     -- definite results, confirmed by several
-    4. POLISHING    -- bugs/errors/faults are increasingly rare
-    5. READY        -- no significant gaps, at least one "client"
+    4. POLISHING    -- problems are rare, some actual usage
+    5. READY        -- no significant gaps, used in production
 
 ## General features
 
