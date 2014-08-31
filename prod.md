@@ -2,7 +2,7 @@
     2. IMPROVING    -- has a champion and early results
     3. MATURING     -- definite results, confirmed by several
     4. POLISHING    -- bugs/errors/faults are increasingly rare
-    5. READY        -- no significant things left to implement
+    5. READY        -- no significant gaps, at least one "client"
 
 ## General features
 
