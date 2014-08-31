@@ -18,7 +18,9 @@
 
 ## Performance
 
-    2. IMPROVING
+    3. MATURING (with spesh, JIT, a profiler, and serious optimization effort)
+    will be 4. POLISHING when we have no terrible benchmarks left in perl6-bench
+    will be 5. READY when Perl 6 has comparable performance with other P-languages
 
 ## Parallelism
 
