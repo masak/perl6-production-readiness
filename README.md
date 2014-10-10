@@ -1,6 +1,10 @@
+Here are the readiness levels in use. Later in the alphabet means more ready.
+
     IMPROVING    -- has a champion and early results
     MATURING     -- definite results, problems are rare
     READY        -- no significant gaps, used in production
+
+Some levels are intermediate and marked with a minus sign `(-)`, when we can resolve progress down to more levels than these three.
 
 ## General features
 
