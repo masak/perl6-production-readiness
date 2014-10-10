@@ -63,6 +63,8 @@ Everything you use to build, test, install and, arguably, author modules.
 
 ## Web support
 
+sergot++'s GSOC work should be factored into this one.
+
     IMPROVING
     will be MATURING when XXX
     will be READY when XXX
