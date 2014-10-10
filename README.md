@@ -53,7 +53,10 @@ Some levels are intermediate and marked with a minus sign `(-)`, when we can res
     will be MATURING when XXX
     will be READY when XXX
 
-## Learning materials
+## A Perl 6 book
+
+A book, in dead-tree form. (Though kindloid formats are OK too, of course.)
+Up-to-date and well-written.
 
     IMPROVING
     will be MATURING when some up-to-date book (à la "Using Perl 6") is available, online or in print
