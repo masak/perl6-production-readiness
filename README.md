@@ -62,7 +62,7 @@ Up-to-date and well-written.
     will be MATURING when some up-to-date book (à la "Using Perl 6") is available, online or in print
     will be READY when the "Programming Perl 6" book is available in print
 
-## Onramps
+## Ways to get started
 
 Materials that can be found online, such as `doc.perl6.org`, tutorials, blog posts.
 
