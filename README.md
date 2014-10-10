@@ -32,6 +32,8 @@ Some levels are intermediate and marked with a minus sign `(-)`, when we can res
 
 ## Language modification and extension
 
+Slangs and macros, user-defined operators and metaoperators.
+
     IMPROVING
     will be MATURING when XXX
     will be READY when XXX
