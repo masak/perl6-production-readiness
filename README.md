@@ -61,6 +61,8 @@ Some levels are intermediate and marked with a minus sign `(-)`, when we can res
 
 ## Onramps
 
+Materials that can be found online, such as `doc.perl6.org`, tutorials, blog posts.
+
     MATURING
     will be READY when XXX
 
