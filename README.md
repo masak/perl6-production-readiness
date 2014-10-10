@@ -38,6 +38,18 @@ Slangs and macros, user-defined operators and metaoperators.
     will be MATURING when XXX
     will be READY when XXX
 
+## Toolchain
+
+Everything you use to build, test, install and, arguably, author modules.
+
+    <pmurias> masak: re production readiness, one thing which lack of is really annoying for me is automatic
+                     precompilation of modules
+    <pmurias> having to write Makefiles is something that doesn't belong in any vaguely modern language
+
+    IMPROVING
+    will be MATURING when XXX
+    will be READY when XXX
+
 ## Perl 5 interoperability
 
     IMPROVING
